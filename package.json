@@ -1,0 +1,19 @@
+{
+  "name": "webscrappercricinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "excel4node": "^1.7.2",
+    "jsdom": "^19.0.0",
+    "minimist": "^1.2.6",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1"
+  }
+}
